@@ -1,0 +1,6 @@
+c:\users\pgira\documents\visual studio 2015\Projects\HelloJenkins\HelloJenkins\bin\Debug\HelloJenkins.exe.config
+c:\users\pgira\documents\visual studio 2015\Projects\HelloJenkins\HelloJenkins\bin\Debug\HelloJenkins.exe
+c:\users\pgira\documents\visual studio 2015\Projects\HelloJenkins\HelloJenkins\bin\Debug\HelloJenkins.pdb
+c:\users\pgira\documents\visual studio 2015\Projects\HelloJenkins\HelloJenkins\obj\Debug\HelloJenkins.csprojResolveAssemblyReference.cache
+c:\users\pgira\documents\visual studio 2015\Projects\HelloJenkins\HelloJenkins\obj\Debug\HelloJenkins.exe
+c:\users\pgira\documents\visual studio 2015\Projects\HelloJenkins\HelloJenkins\obj\Debug\HelloJenkins.pdb
