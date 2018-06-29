@@ -12,7 +12,7 @@ namespace HelloJenkinsTests
         public void CreateMessage_WhenCalled_ReturnsHelloJenkins()
         {
 
-          Assert.IsTrue("Hello World".Equals(Program.createMessage()));
+          Assert.IsTrue("Hello World".Equals(Program.createMessage() + "false"));
 
         }
 

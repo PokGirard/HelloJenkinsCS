@@ -1,0 +1,8 @@
+C:\Users\pgira\Documents\Visual Studio 2015\Projects\HelloJenkins\HelloJenkinsTests\bin\Debug\HelloJenkinsTests.dll
+C:\Users\pgira\Documents\Visual Studio 2015\Projects\HelloJenkins\HelloJenkinsTests\bin\Debug\HelloJenkinsTests.pdb
+C:\Users\pgira\Documents\Visual Studio 2015\Projects\HelloJenkins\HelloJenkinsTests\bin\Debug\HelloJenkins.exe
+C:\Users\pgira\Documents\Visual Studio 2015\Projects\HelloJenkins\HelloJenkinsTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\pgira\Documents\Visual Studio 2015\Projects\HelloJenkins\HelloJenkinsTests\bin\Debug\HelloJenkins.pdb
+C:\Users\pgira\Documents\Visual Studio 2015\Projects\HelloJenkins\HelloJenkinsTests\obj\Debug\HelloJenkinsTests.csprojResolveAssemblyReference.cache
+C:\Users\pgira\Documents\Visual Studio 2015\Projects\HelloJenkins\HelloJenkinsTests\obj\Debug\HelloJenkinsTests.dll
+C:\Users\pgira\Documents\Visual Studio 2015\Projects\HelloJenkins\HelloJenkinsTests\obj\Debug\HelloJenkinsTests.pdb
