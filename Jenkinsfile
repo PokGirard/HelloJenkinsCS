@@ -1,12 +1,3 @@
-def traitement(String s) {
-    echo s;
-}
-
-
-def bonjour() {
-// @Library("libPerso") _
-    traitement();
-}
 
 pipeline {
     agent any
@@ -22,7 +13,7 @@ pipeline {
           
             steps {
                 echo 'Hello, session de test'
-                bonjour();
+               
             }
         }
     }
