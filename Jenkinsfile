@@ -1,3 +1,7 @@
+def bonjour() {
+    echo "aaa";
+}
+
 pipeline {
     agent any
     stages {
@@ -5,14 +9,17 @@ pipeline {
             steps {
                 echo 'Hello, build'
                 bat 'dir'
+               
             }
         }
         stage('Example Test perso') {
           
             steps {
                 echo 'Hello, session de test'
-               
+                bonjour();
             }
         }
     }
+
+
 }
