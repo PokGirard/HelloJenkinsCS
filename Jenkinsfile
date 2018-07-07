@@ -8,8 +8,8 @@ pipeline {
                 bat 'dir'
              script {
               def huitre = 4;
-              println('test');
-             //  globalVars.display();
+              
+             println(globalVars.display());
              }
             }
         }
