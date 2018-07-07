@@ -1,5 +1,10 @@
+def traitement(String s) {
+    echo s;
+}
+
+
 def bonjour() {
-    // echo "aaa";
+ 
     traitement();
 }
 
@@ -25,6 +30,3 @@ pipeline {
 
 }
 
-def traitement(String s) {
-    echo s;
-}
