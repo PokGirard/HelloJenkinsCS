@@ -1,5 +1,6 @@
 def bonjour() {
-    echo "aaa";
+    // echo "aaa";
+    traitement();
 }
 
 pipeline {
@@ -22,4 +23,8 @@ pipeline {
     }
 
 
+}
+
+def traitement(String s) {
+    echo s;
 }
