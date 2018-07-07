@@ -7,7 +7,7 @@ pipeline {
                 echo 'Hello, build'
                 bat 'dir'
                 library 'myLib'
-                // int ui =  globalVars.a;
+                int ui =  globalVars.a;
                
             }
         }
