@@ -6,9 +6,10 @@ pipeline {
             steps {
                 echo 'Hello, build'
                 bat 'dir'
-             //   library 'myLib'
-               globalVars.display();
-               
+             script {
+              def huitre = 4;
+             //  globalVars.display();
+             }
             }
         }
         stage('Example Test perso') {
