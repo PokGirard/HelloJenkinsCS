@@ -11,7 +11,7 @@ pipeline {
           
             steps {
                 echo 'Hello, session de test'
-                bat 'java --version'
+               
             }
         }
     }
