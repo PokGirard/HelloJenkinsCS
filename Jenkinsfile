@@ -4,7 +4,7 @@ def traitement(String s) {
 
 
 def bonjour() {
-@Library("libPerso") _
+// @Library("libPerso") _
     traitement();
 }
 
