@@ -1,4 +1,4 @@
-// @Library("myLib") _
+ @Library("myLib") _
 pipeline {
     agent any
     stages {
@@ -6,8 +6,8 @@ pipeline {
             steps {
                 echo 'Hello, build'
                 bat 'dir'
-                library 'myLib'
-                int ui =  globalVars.a;
+             //   library 'myLib'
+               globalVars.display();
                
             }
         }
