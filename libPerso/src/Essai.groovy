@@ -1,8 +1,8 @@
-public class libPerso {
+public class Essai {
 
     public static int globalVar = 5;
 
-    public void helloFromLib() {
+    public static void helloFromLib() {
         println("hello from lib...");
     }
     
